@@ -1,0 +1,7 @@
+D:\SysFolder\Desktop\c2\lab4\bai3\bin\Debug\bai3.exe.config
+D:\SysFolder\Desktop\c2\lab4\bai3\bin\Debug\bai3.exe
+D:\SysFolder\Desktop\c2\lab4\bai3\bin\Debug\bai3.pdb
+D:\SysFolder\Desktop\c2\lab4\bai3\obj\Debug\bai3.csprojAssemblyReference.cache
+D:\SysFolder\Desktop\c2\lab4\bai3\obj\Debug\bai3.csproj.CoreCompileInputs.cache
+D:\SysFolder\Desktop\c2\lab4\bai3\obj\Debug\bai3.exe
+D:\SysFolder\Desktop\c2\lab4\bai3\obj\Debug\bai3.pdb

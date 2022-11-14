@@ -1,0 +1,7 @@
+D:\SysFolder\Desktop\c2\ASM\ASMC2\ASMC2\bin\Debug\ASMC2.exe.config
+D:\SysFolder\Desktop\c2\ASM\ASMC2\ASMC2\bin\Debug\ASMC2.exe
+D:\SysFolder\Desktop\c2\ASM\ASMC2\ASMC2\bin\Debug\ASMC2.pdb
+D:\SysFolder\Desktop\c2\ASM\ASMC2\ASMC2\obj\Debug\ASMC2.csprojAssemblyReference.cache
+D:\SysFolder\Desktop\c2\ASM\ASMC2\ASMC2\obj\Debug\ASMC2.csproj.CoreCompileInputs.cache
+D:\SysFolder\Desktop\c2\ASM\ASMC2\ASMC2\obj\Debug\ASMC2.exe
+D:\SysFolder\Desktop\c2\ASM\ASMC2\ASMC2\obj\Debug\ASMC2.pdb

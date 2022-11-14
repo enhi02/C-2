@@ -1,0 +1,7 @@
+D:\SysFolder\Desktop\c2\thi\thi\bin\Debug\thi.exe.config
+D:\SysFolder\Desktop\c2\thi\thi\bin\Debug\thi.exe
+D:\SysFolder\Desktop\c2\thi\thi\bin\Debug\thi.pdb
+D:\SysFolder\Desktop\c2\thi\thi\obj\Debug\bai1.csprojAssemblyReference.cache
+D:\SysFolder\Desktop\c2\thi\thi\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\SysFolder\Desktop\c2\thi\thi\obj\Debug\thi.exe
+D:\SysFolder\Desktop\c2\thi\thi\obj\Debug\thi.pdb
